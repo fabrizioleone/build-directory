@@ -6,7 +6,7 @@
 
 ### Usage
 
-Download this repo on your computer and save the file build_directory.py in your favourite directory. Open a new Python file, for example "trial.py" and type the following:
+Download this repo on your computer and save the file build_directory.py in your favourite directory. Create a new Python script, call it for example "trial.py", and type the following:
 
 ```sh
 n      = 3                                 # Number of taks you want to initialize
