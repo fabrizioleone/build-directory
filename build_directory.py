@@ -14,7 +14,7 @@ class build_directory:
  
     # Initialize tasks
     def create_dir(self, n, draft, slides):
-        ''' n = number of tasks to inizialise'''
+        ''' n = number of tasks to initialise'''
 
         # Initialize tasks' structure
         for i in range(n):
