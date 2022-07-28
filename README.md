@@ -8,7 +8,7 @@
 
 Download this repo on your computer and save the file build_directory.py in your favourite directory. Create a new Python script, call it for example "trial.py", and type the following:
 
-```sh
+```python
 n      = 3                                 # Number of taks you want to initialize
 draft  = True                              # Set to False if you don't want a folder for your draft
 slides = True                              # Set to False if you don't want a folder for your slides 
